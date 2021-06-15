@@ -50,3 +50,12 @@
 ![Consumer1Routing](image/Consumer1Routing.png)
 
 ![Consumer2Routing](image/Consumer2Routing.png)
+
+
+      5). Topics
+      
+![ModelTopics](image/ModelTopics.png)
+
+![ProducerTopics](image/ProducerTopics.png)
+
+![ConsumerTopics](image/ConsumerTopics.png)
