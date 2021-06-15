@@ -30,3 +30,14 @@
 ![ModelWorkQueue](image/ModelWorkQueue.png)
 
 ![ConsumerWorkQueue](image/ConsumerWorkQueue.png)
+
+    
+      3). Publish/Subscribe (Fanout) 广播模型 (标准模型)
+      
+![ModelPublishSubscribe](image/ModelPublishSubscribe.png)
+
+![ProducerPublishSubscribe](image/ProducerPublishSubscribe.png)
+
+![ConsumerPublishSubscribe](image/ConsumerPublishSubscribe.png)
+      
+      
