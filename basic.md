@@ -21,3 +21,12 @@
 ![ProducerBasic](image/ProducerBasic.png)
 
 ![ConsumerBasic](image/ConsumerBasic.png)
+    
+    
+      2). Work Queue (Task Queue)
+            - 默认使用round-robin轮询机制派发消息给不同的消费者
+            - 可以手动设置按劳分配多劳多得机制, 以提高系统效率
+
+![ModelWorkQueue](image/ModelWorkQueue.png)
+
+![ConsumerWorkQueue](image/ConsumerWorkQueue.png)
