@@ -41,3 +41,12 @@
 ![ConsumerPublishSubscribe](image/ConsumerPublishSubscribe.png)
       
       
+      4). Routing 
+      
+![ModelRouting](image/ModelRouting.png)
+
+![ProducerRouting](image/ProducerRouting.png)
+
+![Consumer1Routing](image/Consumer1Routing.png)
+
+![Consumer2Routing](image/Consumer2Routing.png)
